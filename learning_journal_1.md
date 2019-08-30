@@ -1,3 +1,1 @@
-# Learning Journal: 1
-## Nathan Morris
-## ICT 302-001
+# Learning Journal: 1\nNathan Morris\nICT302-001
