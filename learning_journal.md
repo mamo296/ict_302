@@ -1,10 +1,10 @@
 # Learning Journal
 ## Nathan Morris<br>ICT302-001
 
-<p>__*Introduction:*__ This is a written record of my learning in ICT 302, a class over _'content management systems'_.</p>
+<p>***Introduction:*** This is a written record of my learning in ICT 302, a class over *'content management systems'*.</p>
 
 ### 09/01/2019: Week 1
-<p>I did not learn too much this past week. I am already __somewhat__ familiar with HTML, so Markdown is not entirely foreign to me. Albeit, I've never written anything in Markdown before this class. I'm already familiar with and have used many times:</p>
+<p>I did not learn too much this past week. I am already **somewhat** familiar with HTML, so Markdown is not entirely foreign to me. Albeit, I've never written anything in Markdown before this class. I'm already familiar with and have used many times:</p>
 <ul>
 <li>Linux</li>
 <li>the terminal</li>
