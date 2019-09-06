@@ -13,4 +13,4 @@ Thus, I'm already familiar with such things as GitHub. Some applications would b
 <p>I think Atom is especially interesting in that it was developed by GitHub, so I look forward to getting more acquainted with it.
 
 ### 09/08/2019: Week 2
-As I said above, I already have some experience with HTML -- *though it is not much.* So, I did not learn a terrible amount with this week's assignment. **However**, I have very, very little experience with CSS. I have done some stylizing from within tags, i.e.: <h2><center>, etc. In my introductory webpage, I used the <style> tag at the top of the HTML file, thus styling each subsequent tag used automatically. This, I had never done before.  
+As I said above, I already have some experience with HTML -- *though it is not much.* So, I did not learn a terrible amount with this week's assignment. **However**, I have very, very little experience with CSS. I have done some stylizing from within tags, i.e.: &lt;h2>&lt;center>, etc. In my introductory webpage, I used the &lt;style> tag at the top of the HTML file, thus styling each subsequent tag used automatically. This, I had never done before.  
