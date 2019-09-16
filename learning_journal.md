@@ -14,3 +14,6 @@ Thus, I'm already familiar with such things as GitHub. Some applications would b
 
 ### 09/08/2019: Week 2
 As I said above, I already have some experience with HTML -- *though it is not much.* So, I did not learn a terrible amount with this week's assignment. **However**, I have very, very little experience with CSS. I have done some stylizing from within tags, i.e.: &lt;h2>&lt;center>, etc. In my introductory webpage, I used the &lt;style> tag at the top of the HTML file, thus styling each subsequent tag used automatically. This, I had never done before.  
+
+### 09/15/2019: Week 3
+This week we defined *"content"*. *"Content"* is a word which is commonly used and understood, but not something you particularly think to define. For the purposes of this class, *"content"* is something that has __both__ undergone an editorial process __and__ produced for human conspumption. 
