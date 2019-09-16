@@ -17,3 +17,4 @@ As I said above, I already have some experience with HTML -- *though it is not m
 
 ### 09/15/2019: Week 3
 This week we defined *"content"*. *"Content"* is a word which is commonly used and understood, but not something you particularly think to define. For the purposes of this class, *"content"* is something that has __both__ undergone an editorial process __and__ produced for human conspumption. 
+We also described the necessary positions in creating a CMS: administrators, developers, editors, stakeholders, and site designers. 
