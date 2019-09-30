@@ -21,3 +21,6 @@ We also described the necessary positions in creating a CMS: administrators, dev
 
 ### 09/22/2019: Week 4
 This week we outlined what the CMS guidebook would consist of, organized ourselves into groups of what we were most interested in (as far was roles in a CMS workflow are concerned), and what groups would be handling what. I chose to be in a developer role, becuase: (1) I am not much of a people person and (2) I have experience in writing code.
+
+### 09/29/2019
+This week we elaborated on the concept of **"content"**. A **"channel"** is *"a distribution outlet for content; a method in which content is consumed."* **Content**, as opposed to **presentation**, is information. Whereas **"presentation"** concerns style, makes the content appear a specific, and is reusable. (I did not attend class Friday.)
