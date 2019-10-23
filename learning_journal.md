@@ -22,5 +22,8 @@ We also described the necessary positions in creating a CMS: administrators, dev
 ### 09/22/2019: Week 4
 This week we outlined what the CMS guidebook would consist of, organized ourselves into groups of what we were most interested in (as far was roles in a CMS workflow are concerned), and what groups would be handling what. I chose to be in a developer role, becuase: (1) I am not much of a people person and (2) I have experience in writing code.
 
-### 09/29/2019
+### 09/29/2019: Week 5
 This week we elaborated on the concept of **"content"**. A **"channel"** is *"a distribution outlet for content; a method in which content is consumed."* **Content**, as opposed to **presentation**, is information. Whereas **"presentation"** concerns style, makes the content appear a specific, and is reusable. (I did not attend class Friday.)
+
+### 10/20/2019: Week 8
+This week we did a collaborative slideshow about different CMS's. My assigned CMS was MediaWiki. As someone who enjoys reading Wikipedia and has edited it, I found this interesting. There was also an assignment to compare Hugo, WordPress, and another CMS (which I chose Wix). In creating a Wix account in order to properly compare it, I may actually keep the account for documenting some of my learning/reading in blog format.
