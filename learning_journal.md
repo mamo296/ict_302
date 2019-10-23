@@ -27,3 +27,8 @@ This week we elaborated on the concept of **"content"**. A **"channel"** is *"a 
 
 ### 10/20/2019: Week 8
 This week we did a collaborative slideshow about different CMS's. My assigned CMS was MediaWiki. As someone who enjoys reading Wikipedia and has edited it, I found this interesting. There was also an assignment to compare Hugo, WordPress, and another CMS (which I chose Wix). In creating a Wix account in order to properly compare it, I may actually keep the account for documenting some of my learning/reading in blog format.
+
+### 10/27/2019: Week 9
+Alison
+IAAP: International Assc. of Accessibility Professionals
+alt text in html <a> tag is for the visually impaired 
