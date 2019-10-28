@@ -32,3 +32,4 @@ This week we did a collaborative slideshow about different CMS's. My assigned CM
 Alison
 IAAP: International Assc. of Accessibility Professionals
 alt text in html <a> tag is for the visually impaired 
+On Wednesday, Oct. 23rd, Alsion came to talk to the class concerning the IAAP ("International Assc. of Accessibility Professionals"). This isn't something that I really knew about. One thing that I thought was interesting, which I did not know before, was the true purpose of the alt text within the &lt;img&gt; tag. I am not visually impaired, so this has never concerned me, but Alison played a video of a visually impaired man using the computer as he would normally, which read off the alt text for him to know what was on the screen.
