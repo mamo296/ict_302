@@ -29,7 +29,8 @@ This week we elaborated on the concept of **"content"**. A **"channel"** is *"a 
 This week we did a collaborative slideshow about different CMS's. My assigned CMS was MediaWiki. As someone who enjoys reading Wikipedia and has edited it, I found this interesting. There was also an assignment to compare Hugo, WordPress, and another CMS (which I chose Wix). In creating a Wix account in order to properly compare it, I may actually keep the account for documenting some of my learning/reading in blog format.
 
 ### 10/27/2019: Week 9
-Alison
-IAAP: International Assc. of Accessibility Professionals
-alt text in html <a> tag is for the visually impaired 
 On Wednesday, Oct. 23rd, Alsion came to talk to the class concerning the IAAP ("International Assc. of Accessibility Professionals"). This isn't something that I really knew about. One thing that I thought was interesting, which I did not know before, was the true purpose of the alt text within the &lt;img&gt; tag. I am not visually impaired, so this has never concerned me, but Alison played a video of a visually impaired man using the computer as he would normally, which read off the alt text for him to know what was on the screen.
+
+### 11/03/2019: Week 10
+This week we discussed atributes, data types, etc., which are all key to know in working with a CMS -- especially when concerning user input data. On Wednesday I paired with Jason to talk through examples on the project: what attributes there were, what sorts of data types they were, etc. Jason and I both have a fair amount of experience programming, so we each had things to say concerning it.
+Friday cleared up many things about the CMS guidebook project and my group's role. We each assigned ourselves reasonable tasks and got to work.
