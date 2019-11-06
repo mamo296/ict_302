@@ -34,3 +34,17 @@ On Wednesday, Oct. 23rd, Alsion came to talk to the class concerning the IAAP ("
 ### 11/03/2019: Week 10
 This week we discussed atributes, data types, etc., which are all key to know in working with a CMS -- especially when concerning user input data. On Wednesday I paired with Jason to talk through examples on the project: what attributes there were, what sorts of data types they were, etc. Jason and I both have a fair amount of experience programming, so we each had things to say concerning it.
 Friday cleared up many things about the CMS guidebook project and my group's role. We each assigned ourselves reasonable tasks and got to work.
+
+### 11/10/2019: Week 11
+Content Aggregation:  *"grouping content for specific presentation purposes"*
+Variable Aggregation: *"criteria sensitive to context, i.e.: viewing articles, author changes"*
+Shape of content:
+<html>
+  <ul>
+    <li>serial</li>
+    <li>hierarchical</li>
+    <li>relational</li>
+    <li>network</li>
+    <li>tabular</li>
+  </ul>
+</html>
