@@ -48,3 +48,7 @@ Shape of content:
     <li>tabular</li>
   </ul>
 </html>
+
+### 11/17/2019: Week 12
+extending CMS, i.e.: plugin for custom fields in WordPress
+API: *"language tools for devs to communicate with and control software from code, manipulate content objects"*
