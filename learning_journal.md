@@ -52,3 +52,10 @@ Shape of content:
 ### 11/17/2019: Week 12
 extending CMS, i.e.: plugin for custom fields in WordPress
 API: *"language tools for devs to communicate with and control software from code, manipulate content objects"*
+
+### 11/24/2019: Week 13
+advertising:        adsanityplugin.com
+sponsored content:  macsparky.com
+affiliate links:    thewirecutter.com *"Wirecutter is reader-supported. When you buy through links on our site, we may earn an affiliate commission."*
+memberships:        sixcolors.com
+crowdfunding:       cgpgrey.com
