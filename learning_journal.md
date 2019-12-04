@@ -59,3 +59,9 @@ sponsored content:  macsparky.com
 affiliate links:    thewirecutter.com *"Wirecutter is reader-supported. When you buy through links on our site, we may earn an affiliate commission."*
 memberships:        sixcolors.com
 crowdfunding:       cgpgrey.com
+
+
+### ??? dec 4
+content:         *"created thru editorial process for human consumption"*
+content channel: *"means by which humans consume content,* ***or*** *means for outlet of a producer's content"*
+example channel: website, podcast, YouTube, blog, Spotify, RSS
