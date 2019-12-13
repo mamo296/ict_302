@@ -7,10 +7,10 @@ As a developer, our tasks are to pick relevant plugins and implement them. After
 The final due date of everything is at the end of the semester. Due dates will be established and communicated from the admins, to Jason, to group members. As the editors finish chapters on Google Docs, they will be formatted and posted by our group. This can only be done as the editors finisht their chapters.
 
 ## How will it be evaluated?
-The work should be graded on whether it was done:
-(1) in a timely manner [3 pts], <br>
-(2) its quality [2 pts], and <br>
-(3) the fact that I was participating [3 pts]
+The work should be graded on whether it was done: <br>
+**(1)** in a timely manner **[3 pts]**, <br>
+**(2)** its quality **[2 pts]**, and <br>
+**(3)** the fact that I was participating **[3 pts]**
 
 ## Who will evaluate it?
 Michael will be evaluating me. He is in my group and therefore a good choice in that he will witness my work.
