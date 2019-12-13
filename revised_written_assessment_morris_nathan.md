@@ -8,8 +8,8 @@ The final due date of everything is at the end of the semester. Due dates will b
 
 ## How will it be evaluated?
 The work should be graded on whether it was done:
-(1) in a timely manner [3 pts], 
-(2) its quality [2 pts], and 
+(1) in a timely manner [3 pts], <br>
+(2) its quality [2 pts], and <br>
 (3) the fact that I was participating [3 pts]
 
 ## Who will evaluate it?
